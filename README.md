@@ -9,4 +9,6 @@ For the beginning process of this project, we will focus on scanning only on one
 
 As of now, the model will consist of a 2D segmentation model of which we will use since not many instances of 3D plant disease data is available. We will a 3D scan of a plant and select the most optimal 2D slice within the 3D scan, then feed it into our model after some preprocessing.
 
-Here is a potential data source we are looking at, it is one of the largest most diverse datasets of available labeld plant data with different plants and differen diseases: https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
+Here is a potential data source we are looking at, it is one of the largest most diverse datasets of available labeld plant data with different plants and different diseases:
+
+https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
