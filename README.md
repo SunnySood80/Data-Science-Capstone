@@ -1,5 +1,6 @@
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
+
 Team 8: Sunny Sood, Rahul Tumula
 
 This project aims to develop an innovative solution for detecting diseases on crops. By leveraging LIDAR technology and a segmentation model, we intend to scan, detect, segment, and then relay the findings to a mobile iOS app for straightforward observation.
