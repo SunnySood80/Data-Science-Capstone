@@ -1,14 +1,13 @@
-# Data-Science-Capstone
-A crop scanning project to detect and segment a disease and push to a mobile front end
+A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
 Team 8: Sunny Sood, Rahul Tumula
 
-This project will find a innovative solution to detecting a disease on a crop using LIDAR technology and a segmentation model to scan, detect, and segment then push to a mobile IOS app for easy observation.
+This project aims to develop an innovative solution for detecting diseases on crops. By leveraging LIDAR technology and a segmentation model, we intend to scan, detect, segment, and then relay the findings to a mobile iOS app for straightforward observation.
 
-For the beginning process of this project, we will focus on scanning only on one plant for now segmenting the 3D model for disease, and doing so using the iphone's built in LIDAR scanner. All iphones above the iphone 11 have LIDAR scanning capabilities.
+In the initial phase, our focus will be on scanning a single plant, segmenting the 3D model to identify diseases. This will be accomplished using the iPhone's built-in LIDAR scanner. Notably, all iPhones from the iPhone 11 onwards are equipped with LIDAR scanning capabilities.
 
-As of now, the model will consist of a 2D segmentation model of which we will use since not many instances of 3D plant disease data is available. We will a 3D scan of a plant and select the most optimal 2D slice within the 3D scan, then feed it into our model after some preprocessing.
+Given the current scarcity of 3D plant disease data, our model will primarily be a 2D segmentation model. After obtaining a 3D scan of a plant, we will identify the most optimal 2D slice within the 3D scan. This slice will then be fed into our model following some preprocessing.
 
-Here is a potential data source we are looking at, it is one of the largest most diverse datasets of available labeld plant data with different plants and different diseases:
+We are currently considering a potential data source listed below. It is among the most extensive and diverse datasets, featuring labeled plant data that encompasses various plants and diseases:
 
 https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
