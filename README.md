@@ -4,6 +4,7 @@ Milestone #1 Presentation link: https://docs.google.com/presentation/d/1dDkMMWXl
 
 Live LiDAR Demo (will do a live on in class): https://drive.google.com/file/d/1uGpjpogzfaQQUb_GKNLXt6AAaA6qqukc/view?resourcekey 
 
+Mock Interview: https://drive.google.com/file/d/1aOxveioahteh91azZ3iznKo5OvHxNY37/view?usp=sharing
 
 Team 8: Sunny Sood, Rahul Tumula
 
