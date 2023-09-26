@@ -1,5 +1,9 @@
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
+Milestone #1 Presentation link: https://docs.google.com/presentation/d/1dDkMMWXl8lgRNfyDRiOtO32ZK9SpYKpo13RjsM9ScS8/edit?usp=sharing
+
+Live LiDAR Demo (will do a live on in class): https://drive.google.com/file/d/1uGpjpogzfaQQUb_GKNLXt6AAaA6qqukc/view?resourcekey 
+
 
 Team 8: Sunny Sood, Rahul Tumula
 
