@@ -10,7 +10,7 @@ Mock Interview: https://drive.google.com/file/d/1aOxveioahteh91azZ3iznKo5OvHxNY3
 
 Milestone #2 Presentation (Assignment #3): https://docs.google.com/presentation/d/14UQjUF1LiAjvW_2IOnFgp5UjIN_xnpg6kvq0HFmPsjI/edit?usp=sharing
 
-Live LiDAR Demo #2 (Assignment #3): https://drive.google.com/file/d/1SmK_huxEEPoaBsYXYavGLH5HRRtpRyUM/view?usp=sharing
+Live LiDAR Demo #2 (Assignment #3): https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
 
 Mock Interview #2: (Assignment #3): 
 
