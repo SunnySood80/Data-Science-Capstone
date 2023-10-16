@@ -2,9 +2,18 @@ A crop scanning project to detect and segment diseases and interface with a mobi
 
 Milestone #1 Presentation link: https://docs.google.com/presentation/d/1dDkMMWXl8lgRNfyDRiOtO32ZK9SpYKpo13RjsM9ScS8/edit?usp=sharing
 
-Live LiDAR Demo (will do a live on in class): https://drive.google.com/file/d/1uGpjpogzfaQQUb_GKNLXt6AAaA6qqukc/view?resourcekey 
+Live LiDAR Demo: https://drive.google.com/file/d/1uGpjpogzfaQQUb_GKNLXt6AAaA6qqukc/view?resourcekey 
 
 Mock Interview: https://drive.google.com/file/d/1aOxveioahteh91azZ3iznKo5OvHxNY37/view?usp=sharing
+
+
+
+Milestone #2 Presentation (Assignment #3): https://docs.google.com/presentation/d/14UQjUF1LiAjvW_2IOnFgp5UjIN_xnpg6kvq0HFmPsjI/edit?usp=sharing
+
+Live LiDAR Demo #2 (Assignment #3):
+
+Mock Interview #2: (Assignment #3): 
+
 
 Team 8: Sunny Sood, Rahul Tumula
 
