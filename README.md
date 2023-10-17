@@ -8,11 +8,18 @@ Mock Interview: https://drive.google.com/file/d/1aOxveioahteh91azZ3iznKo5OvHxNY3
 
 
 
-Milestone #2 Presentation (Assignment #3): https://docs.google.com/presentation/d/14UQjUF1LiAjvW_2IOnFgp5UjIN_xnpg6kvq0HFmPsjI/edit?usp=sharing
+1. Milestone #2 Presentation (Assignment #3): https://docs.google.com/presentation/d/14UQjUF1LiAjvW_2IOnFgp5UjIN_xnpg6kvq0HFmPsjI/edit?usp=sharing
 
-Live LiDAR Demo #2 (Assignment #3): https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
+2. Mock Interview #2: (Assignment #3): https://drive.google.com/file/d/1rc8eH3Aw-NkrgYTD9C98_uJa7T4h9LiQ/view?usp=sharing
 
-Mock Interview #2: (Assignment #3): 
+3. Side Hustle Challenge (Assignment #3): https://drive.google.com/file/d/1xOU-gJnuft3PVnCaYBuykRVLuLJ15Z2o/view?usp=sharing
+
+4. Summary + technical report (Assignment #3): https://docs.google.com/document/d/1oz5Fwh-fc_MIYDK3bdKeYH25QGe5BZMg/edit?usp=sharing&ouid=106606330984945237674&rtpof=true&sd=true
+
+5. Peer evaluation (Assignment #3): https://docs.google.com/document/d/1LwZ-lcBvRPTPFMxBBM9grIbXcskEHCW8UqPsoqPoS-8/edit?usp=sharing
+
+6. Live LiDAR Demo #2 (Assignment #3): https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
+
 
 
 Team 8: Sunny Sood, Rahul Tumula
