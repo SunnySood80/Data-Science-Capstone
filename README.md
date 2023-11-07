@@ -1,28 +1,5 @@
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
-Milestone #1 Presentation link: https://docs.google.com/presentation/d/1dDkMMWXl8lgRNfyDRiOtO32ZK9SpYKpo13RjsM9ScS8/edit?usp=sharing
-
-Live LiDAR Demo: https://drive.google.com/file/d/1uGpjpogzfaQQUb_GKNLXt6AAaA6qqukc/view?resourcekey 
-
-Mock Interview: https://drive.google.com/file/d/1aOxveioahteh91azZ3iznKo5OvHxNY37/view?usp=sharing
-
-
-
-1. Milestone #2 Presentation (Assignment #3): https://docs.google.com/presentation/d/14UQjUF1LiAjvW_2IOnFgp5UjIN_xnpg6kvq0HFmPsjI/edit?usp=sharing
-
-2. Mock Interview #2: (Assignment #3): https://drive.google.com/file/d/1rc8eH3Aw-NkrgYTD9C98_uJa7T4h9LiQ/view?usp=sharing
-
-3. Side Hustle Challenge (Assignment #3): https://drive.google.com/file/d/1xOU-gJnuft3PVnCaYBuykRVLuLJ15Z2o/view?usp=sharing
-
-4. Summary + technical report (Assignment #3): https://docs.google.com/document/d/1oz5Fwh-fc_MIYDK3bdKeYH25QGe5BZMg/edit?usp=sharing&ouid=106606330984945237674&rtpof=true&sd=true
-
-5. Peer evaluation (Assignment #3): https://docs.google.com/document/d/1LwZ-lcBvRPTPFMxBBM9grIbXcskEHCW8UqPsoqPoS-8/edit?usp=sharing
-
-6. Live LiDAR Demo #2 (Assignment #3): https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
-
-
-
-Team 8: Sunny Sood, Rahul Tumula
 
 This project aims to develop an innovative solution for detecting diseases on crops. By leveraging LIDAR technology and a segmentation model, we intend to scan, detect, segment, and then relay the findings to a mobile iOS app for straightforward observation.
 
