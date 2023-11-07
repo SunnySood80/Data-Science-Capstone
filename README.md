@@ -1,6 +1,10 @@
+BOT-NY
+
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
 ![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/Botny.png?raw=true)
+
+Motivation: We want to provide a detailed, product centric application for farmers and casual gardners to use.
 
 This project aims to develop an innovative solution for detecting diseases on crops. By leveraging LIDAR technology and a segmentation model, we intend to scan, detect, segment, and then relay the findings to a mobile iOS app for straightforward observation.
 
