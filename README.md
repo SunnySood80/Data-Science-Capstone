@@ -1,5 +1,7 @@
 BOTNY
 
+Video Link: https://drive.google.com/file/d/1gTwsi3YNl4gA2L2ofIAu9PrQ2_Mw_KG5/view?usp=sharing
+
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
 ![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/BONTY.png?raw=true)
