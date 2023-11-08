@@ -2,7 +2,7 @@ BOTNY
 
 A crop scanning project to detect and segment diseases and interface with a mobile frontend.
 
-![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/Botny.png?raw=true)
+![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/Botny.png)
 
 Our goal is to create an advanced application for both professional farmers and hobbyist gardeners to identify crop diseases. 
 
