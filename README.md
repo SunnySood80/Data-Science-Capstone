@@ -16,7 +16,7 @@ The resulting 3D image will be processed and displayed in an iOS app. We plan to
 
 Our approach will adapt based on the technology and resources available, and we are exploring a comprehensive plant data set to inform our model.
 
-![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/mock.png?raw=true)
+![alt text](https://github.com/SunnySood80/Data-Science-Capstone/blob/main/example.png?raw=true)
 
 
 https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
