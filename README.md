@@ -1,5 +1,13 @@
 BOTNY
 
+ppt: https://docs.google.com/presentation/d/1xcaFf27noHW25nwHdAUUcDonzBMVBSVamrFgYb9JKAE/edit?usp=sharing
+
+Poster: https://drive.google.com/file/d/1AnGucNCUdDKnVZ_xdiJkEtZ9uD93Zbqh/view?usp=sharing
+
+Video: https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
+
+Peer review: https://drive.google.com/file/d/1ccDD1i0_nRZV8zQ_d-uNMpV3_Bd2xDVE/view?usp=sharing
+
 Our solution is a novel idea that goes beyond current research. So far, the latest studies have only considered a 2D top-down view of a crop field; we aim to add an extra dimension and use advanced deep learning models to extract as much detail as possible
 
 Video Link: https://drive.google.com/file/d/1gTwsi3YNl4gA2L2ofIAu9PrQ2_Mw_KG5/view?usp=sharing
