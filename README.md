@@ -10,6 +10,8 @@ Peer review: https://drive.google.com/file/d/1ccDD1i0_nRZV8zQ_d-uNMpV3_Bd2xDVE/v
 
 Final write up: https://docs.google.com/document/d/1g_18so_iyJK7hD7Ay-McbZfU5bodqMW8Hj6ZVyD-mMY/edit?usp=sharing
 
+Mock Interview Assignment 5: https://drive.google.com/file/d/1lqpDVqRZTyYH7Z8vXNI9rVZwvI0lPJHZ/view?usp=sharing 
+
 Our solution is a novel idea that goes beyond current research. So far, the latest studies have only considered a 2D top-down view of a crop field; we aim to add an extra dimension and use advanced deep learning models to extract as much detail as possible
 
 Video Link: https://drive.google.com/file/d/1gTwsi3YNl4gA2L2ofIAu9PrQ2_Mw_KG5/view?usp=sharing
