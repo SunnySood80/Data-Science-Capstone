@@ -1,16 +1,16 @@
 BOTNY
 
-ppt: https://docs.google.com/presentation/d/1xcaFf27noHW25nwHdAUUcDonzBMVBSVamrFgYb9JKAE/edit?usp=sharing
+Assingment 5 ppt: https://docs.google.com/presentation/d/1xcaFf27noHW25nwHdAUUcDonzBMVBSVamrFgYb9JKAE/edit?usp=sharing
 
-Poster: https://drive.google.com/file/d/1k-1-PY22L7isK_YnYR00Qeytc0mxWXtk/view?usp=sharing
+Assingment 5 Poster: https://drive.google.com/file/d/1k-1-PY22L7isK_YnYR00Qeytc0mxWXtk/view?usp=sharing
 
-Video: https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
+Assingment 5 Video: https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
 
-Peer review: https://drive.google.com/file/d/1ccDD1i0_nRZV8zQ_d-uNMpV3_Bd2xDVE/view?usp=sharing
+Assingment 5 Peer review: https://drive.google.com/file/d/1ccDD1i0_nRZV8zQ_d-uNMpV3_Bd2xDVE/view?usp=sharing
 
-Final write up: https://docs.google.com/document/d/1g_18so_iyJK7hD7Ay-McbZfU5bodqMW8Hj6ZVyD-mMY/edit?usp=sharing
+Assingment 5 Final write up: https://docs.google.com/document/d/1g_18so_iyJK7hD7Ay-McbZfU5bodqMW8Hj6ZVyD-mMY/edit?usp=sharing
 
-Mock Interview Assignment 5: https://drive.google.com/file/d/1lqpDVqRZTyYH7Z8vXNI9rVZwvI0lPJHZ/view?usp=sharing 
+Assingment 5 Mock Interview Assignment 5: https://drive.google.com/file/d/1lqpDVqRZTyYH7Z8vXNI9rVZwvI0lPJHZ/view?usp=sharing 
 
 Our solution is a novel idea that goes beyond current research. So far, the latest studies have only considered a 2D top-down view of a crop field; we aim to add an extra dimension and use advanced deep learning models to extract as much detail as possible
 
