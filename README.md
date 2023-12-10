@@ -2,7 +2,7 @@ BOTNY
 
 ppt: https://docs.google.com/presentation/d/1xcaFf27noHW25nwHdAUUcDonzBMVBSVamrFgYb9JKAE/edit?usp=sharing
 
-Poster: https://drive.google.com/file/d/1AnGucNCUdDKnVZ_xdiJkEtZ9uD93Zbqh/view?usp=sharing
+Poster: https://drive.google.com/file/d/1k-1-PY22L7isK_YnYR00Qeytc0mxWXtk/view?usp=sharing
 
 Video: https://drive.google.com/file/d/19viikALRA-k_9iOZqMFibK1SDNo_8GY-/view?usp=sharing
 
